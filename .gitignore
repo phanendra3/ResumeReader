@@ -1,0 +1,3 @@
+mediafiles/
+resumeParser/migrations/*
+resumeParser/__pycache__/*

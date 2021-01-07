@@ -7,7 +7,7 @@ django-extensions==2.2.8
 docx==0.2.4
 docx-utils==0.1.2
 docx2txt==0.8
-lxml==4.5.0
+lxml==4.6.2
 nltk==3.4.5
 opencv-python==4.2.0.34
 pdfminer==20191125

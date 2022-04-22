@@ -13,7 +13,7 @@ opencv-python==4.2.0.34
 pdfminer==20191125
 pdfminer.six==20200402
 pdfminer3==2018.12.3.0
-PyPDF2==1.26.0
+PyPDF2==1.27.5
 pyresparser==1.0.6
 python-docx==0.8.10
 requests==2.23.0
